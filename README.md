@@ -176,4 +176,4 @@ the best school in vaniyambadi.
 
 
 ## Result:
-Write your result
+The program is completed successfully.
